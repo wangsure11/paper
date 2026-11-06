@@ -1,0 +1,47 @@
+4.参考文献
+[1]	杨蒙, 翁翕, 沈沉, 等. 面向算电协同的建模与应用：研究现状与展望[J]. 电力系统自动化, 2026, 50(17): 18-36.
+[2]	陈晓红, 吕建, 刘咏梅. 算电协同技术与应用发展研究[J/OL]. 中国工程科学, 2026-08-31（网络首发）. DOI: 10.15302/J-SSCAE-2025.12.003.
+[3]	邵子豪, 王志浩, 周晓茂, 等. 算电协同研究综述：架构、关键技术与展望[J]. 通信学报, 2025, 46(10): 287-308.
+[4]	马帅印, 牛晨阳, 栾龙源, 等. 人工智能赋能算电协同的关键技术[J]. 综合智慧能源, 2026, 48(8): 69-81.
+[5]	王志新, 邹怡寒, 王简, 等. 电算协同：数据中心电源配置、负荷建模与预测、电力调度[J]. 电子测量与仪器学报, 2026, 40(5): 1-14.
+[6]	朱继忠, 杨晓宁, 张迪, 等. 智算中心柔性负荷建模与算电协同调控关键技术及展望[J]. 综合智慧能源, 2026, 48(8): 1-15.
+[7]	王奕, 郭庆来. 面向算电协同的智算中心负荷灵活性：挑战与展望[J]. 电力系统自动化, 2026, 50(17): 3-17.
+[8]	李彬, 申楠, 徐靖, 等. 算电协同架构下基于MCP的多智能体协同机制综述[J]. 综合智慧能源, 2026, 48(8): 16-28.
+[9]	TANG Z, WANG Y, WANG Q, et al. The Impact of GPU DVFS on the Energy and Performance of Deep Learning: an Empirical Study[C]//Proceedings of the Tenth ACM International Conference on Future Energy Systems. New York: ACM, 2019: 315-325.
+[10]	WILHELM P, WITTKOPP T, KAO O. Beyond Test-Time Compute Strategies: Advocating Energy-per-Token in LLM Inference[C]//Proceedings of the 5th Workshop on Machine Learning and Systems. New York: ACM, 2025: 208-215. DOI: 10.1145/3721146.3721953.
+[11]	范俊秋, 刘明顺, 王明阳, 等. 支撑算电协同的异构数据中心深度学习任务两阶段能耗预测方法[J/OL]. 电网技术, 2026-09-24（网络首发）. DOI: 10.13335/j.1000-3673.pst.2026.0578.
+[12]	HANKENDI C, SHAHOUT R, YU M, et al. PALS: Power-Aware LLM Serving for Mixture-of-Experts Models[EB/OL]. 2026. arXiv:2605.21427v1.
+[13]	KANG D K, LEE K B, KIM Y C. Cost Efficient GPU Cluster Management for Training and Inference of Deep Learning[J]. Energies, 2022, 15(2): 474.
+[14]	KANG D K, MOON Y H. A Carbon-Efficient Framework for Deep Learning Workloads on GPU Clusters[J]. Applied Sciences, 2026, 16(2): 633.
+[15]	SUN Y, DING Z, DEHGHANIAN P, et al. Learning-Enabled Adaptive Power Capping Scheme for Cloud Data Centers[J]. IEEE Transactions on Smart Grid, 2025, 16(6): 4755-4767. DOI: 10.1109/TSG.2025.3598070.
+[16]	WANG Y, SUN W, REN P, et al. Multi-Objective Low-Carbon Scheduling Method for Data Centers Based on Ensemble Reinforcement Learning[J]. IEEE Transactions on Smart Grid, 2026, 17(1): 297-308. DOI: 10.1109/TSG.2025.3620106.
+[17]	ZHAO J, HUANG K, GAO Y, et al. Coordinated scheduling optimization for computility center microgrid considering computing resources dynamic pooling[J]. Applied Energy, 2025, 393: 125971. DOI: 10.1016/j.apenergy.2025.125971.
+[19] 冯洪赟, 谭振飞, 严正. 基于空间弹性表征的广域数据中心集群算电协同调度方法[J/OL]. 电力系统自动化, 2026-08-05（网络首发）. DOI: 10.7500/AEPS20260319001.
+[20] 付智, 郑博文, 刘效辰, 等. 基于闲时算力调度的算电协同方法与实践[J]. 电力系统自动化, 2026, 50(17): 126-136.
+[21] WU S, WANG X. Exploiting Hybrid Energy Storage to Minimize the Carbon Footprint of AI Data Centers[C]//Proceedings of the 2026 International Conference on Supercomputing. New York: ACM, 2026: 1141-1153.
+[22] 陈敏, 郭庆来, 井汤博, 等. 算电协同探索：HVDC侧储备一体电池灵活性挖掘[J]. 电力建设, 2025, 46(2): 1-12.
+[23] JIANG Z, TANG Y, DING S, et al. Co-allocation and operational optimization for green power-direct-supply data center clusters with shared energy storage[J]. International Journal of Electrical Power & Energy Systems, 2025, 173: 111403.
+[24] ZHANG Y, TANG H, LI H, et al. Unlocking the flexibilities of data centers for smart grid services: Optimal dispatch and design of energy storage systems under progressive loading[J]. Energy, 2025, 316: 134511. DOI: 10.1016/j.energy.2025.134511.
+[25] 马丁, 叶宇剑, 吴奕之, 等. 多源不确定性风险约束下算力网-电力网协同运行优化方法[J]. 电力系统自动化, 2026, 50(17): 137-152.
+[26] DING Y, LI X, ZHAO Y, et al. Towards cost-optimal joint electricity-computation management: A novel predict-then-optimize framework[J]. Applied Energy, 2026, 412: 127734. DOI: 10.1016/j.apenergy.2026.127734.
+[27] DONG C, LIU H, QI Y, et al. Fine-Grained Scheduling Strategies and Optimization of Wind–Solar–Storage Powered Data Center Microgrids[J]. IEEE Access, 2025, 13: 215339-215356.
+[28] ZHANG S, DING S, LI Y, et al. A bi-level planning model of integrated energy capacity configuration for data center cluster considering computing-electricity coupling operation and supply-demand uncertainties[J]. Applied Energy, 2026, 425: 128499. DOI: 10.1016/j.apenergy.2026.128499.
+[29] 凃陈, 潘萱颖, 王欢, 等. 计及多元绿电消费与时空灵活性的算电协同优化[J]. 电力建设, 2026, 47(7): 1-13.
+[30] GUO F, SOARES J, MA L, et al. Integrated planning of wind–solar–storage–grid systems for private-wire supplied data centers[J]. Applied Energy, 2026, 414: 127841.
+[31] RIEPIN I, BROWN T, ZAVALA V M. Spatio-temporal load shifting for truly clean computing[J]. Advances in Applied Energy, 2025, 17: 100202.
+[32] BUTT H Z, FATIMA R, LI X. Minimizing Grid Interconnection Capacity Requirements for AI Data Centers: A Developer-Side Planning Framework with Onsite Resources and Workload Flexibility[EB/OL]. 2026. arXiv:2608.29359.
+[33] WANG Y, et al. Comprehensive evaluation of all-element flexibility resources in data centers: considering synergistic benefits of computing, electricity, and heat[J]. Applied Energy, 2025.
+[34] ZHOU N, et al. Coordinated Scheduling and Energy Storage Planning for Grid-AIDC Systems Considering Heterogeneous Tasks[J]. IEEE Transactions on Smart Grid, 2026.
+[35] ZHOU Y, et al. Data center load modeling through optimal energy consumption characteristics: A path to simultaneously enhance energy efficiency and demand response quality[J]. Applied Energy, 2025.
+
+
+
+
+
+
+
+
+
+
+
+（本表可附页）
